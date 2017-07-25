@@ -12,3 +12,6 @@
 *.nav
 *.swp
 *.lyx~
+*.pyc
+*.o
+*.gch

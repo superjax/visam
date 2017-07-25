@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>klt_tracker</name>
+  <name>visam</name>
   <version>0.0.0</version>
-  <description>The KLT tracker package</description>
+  <description>Visual-Inertial Smoothing and Mapping Package</description>
 
   <maintainer email="superjax08@gmail.com">James Jackson</maintainer>
 
